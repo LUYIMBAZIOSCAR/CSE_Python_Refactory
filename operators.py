@@ -25,3 +25,4 @@ print(10>9) # This is the less than
 # Logical operators e.g or,and ,not
 print( not True )
 print(True and False)
+
