@@ -1,7 +1,7 @@
 # Conditional Statements In Python
 numbers=[10,20,30,40]
 name='Oscar'
-num1=99
+num1=100
 
 if 10 in numbers:
     print('Value 10 is found in the list')
